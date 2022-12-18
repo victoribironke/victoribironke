@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victoribironke
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning the mern stack
+- 🌱 I’m currently learning the MERN stack
 - 💞️ I’m looking to collaborate on pretty much anything
 - 📫 How to reach me: twitter @victoribironke_
 
