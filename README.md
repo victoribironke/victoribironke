@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @victoribironke
-- 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning the MERN stack
-- 💞️ I’m looking to collaborate on pretty much anything
-- 📫 How to reach me: twitter @victoribironke_
+# Hi, 👋 I'm Victor!
 
-<!---
-victoribironke/victoribironke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a **full-stack** web developer 👨‍💻 from **Nigeria** 🌍. 
+
+# 🙋‍♂️ About Me
+
+ - 🔭 I am currently working with Next.js.
+ - 🖥️ I am frontend heavy, but I have made some full-stack projects
+ - 👯 I am looking to work with companies with a good learning environment
+ - 📫 How to reach me? [victoribironke2019@gmail.com](mailto:victoribironke2019@gmail.com)
+ - ⚡ I don't use Tailwind CSS or Bootstrap, I write my CSS from scratch (CSS preprocessors are cool though).
