@@ -38,7 +38,7 @@ I am a frontend software engineer.
 ⚡️ Fun fact? I also play the saxophone
 
 ## 
-<a href="https://github.com/Nalito">
+<a href="https://github.com/victoribironke">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoribironke&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoribironke&theme=buefy&layout=compact" />
 </a>
