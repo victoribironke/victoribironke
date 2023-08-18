@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I am a frontend software engineer.
+I am a fullstack software engineer.
 
 ## 🛠 Tech Stack
 
@@ -29,13 +29,9 @@ I am a frontend software engineer.
 
 ## 
 
-👩‍💻 I'm currently working with Merjoh Marketing Agency
-
-🧠 I'm currently studying in the ALX SWE Programme
-
 📫 How to reach me: [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victoribironke.netlify.app)
 
-⚡️ Fun fact? I also play the saxophone
+⚡️ Fun fact? I also play the saxophone.
 
 ## 
 <a href="https://github.com/victoribironke">
