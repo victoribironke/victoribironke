@@ -29,7 +29,7 @@ I am a fullstack software engineer.
 
 ## 
 
-📫 How to reach me: [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victoribironke.netlify.app)
+📫 How to reach me: victoribironke2019@gmail.com
 
 ⚡️ Fun fact? I also play the saxophone.
 
