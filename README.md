@@ -2,7 +2,7 @@
 
 ## 💼 About Me
 
-I am a full-stack developer with an enthusiastic drive for building high-quality web projects.
+I am a full-stack developer with an enthusiastic drive to build high-quality web projects.
 
 ## 🛠️ Tech Stack
 
@@ -17,7 +17,7 @@ I am a full-stack developer with an enthusiastic drive for building high-quality
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn&logoColor=white)](https://shadcn.github.io/ui/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn&logoColor=white)](https://ui.shadcn.com/)
 
 ### 📦 Backend & Databases
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
