@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I am a fullstack software engineer.
+I am a fullstack software developer.
 
 ## 🛠 Tech Stack
 
