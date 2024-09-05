@@ -21,17 +21,18 @@ An intuitive tool that allows users to easily generate Firestore queries. It inc
 # Tools and Technologies
 
 ## Browsers
-- **Firefox**: My go-to browser for development and debugging due to its robust developer tools.
-- **Microsoft Edge**: Used for cross-browser testing and inspecting site compatibility.
+- **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**: My go-to browser for development and debugging due to its robust developer tools.
+- **[Microsoft Edge](https://www.microsoft.com/edge)**: Used for cross-browser testing and inspecting site compatibility.
 
 ## Code Editors
-- **Visual Studio Code**: My primary code editor, equipped with powerful extensions for efficient development.
-- **Sublime Text**: A lightweight editor for quick edits and scripting tasks.
+- **[Visual Studio Code](https://code.visualstudio.com/)**: My primary code editor, equipped with powerful extensions for efficient development.
+- **[Sublime Text](https://www.sublimetext.com/)**: A lightweight editor for quick edits and scripting tasks.
 
 ## Development Tools
-- **HTTPie**: A modern alternative to Postman for testing APIs, providing a streamlined and intuitive user interface.
-- **Vercel**: Hosting platform for frontend projects with seamless deployment and integration features.
+- **[HTTPie](https://httpie.io/)**: A modern alternative to Postman for testing APIs, providing a streamlined and intuitive user interface.
+- **[Vercel](https://vercel.com/)**: Hosting platform for frontend projects with seamless deployment and integration features.
 
 ## Productivity
-- **Google Tasks**: A simple and effective tool for managing daily tasks and staying organized.
-- **Spotify**: For music and podcasts to keep the energy flowing during development.
+- **[Google Tasks](https://tasks.google.com/)**: A simple and effective tool for managing daily tasks and staying organized.
+- **[Spotify](https://www.spotify.com/)**: For music and podcasts to keep the energy flowing during development.
+- **[Notion](https://www.notion.so/)**: An all-in-one workspace for notes, tasks, and project management.
