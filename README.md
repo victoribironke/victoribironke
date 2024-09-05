@@ -18,8 +18,6 @@ An intuitive tool that allows users to easily generate Firestore queries. It inc
 
 [Explore the Firestore Query Generator](https://ventivo.co/tools/query-generator)
 
----
-
 # Tools and Technologies
 
 ## Browsers
