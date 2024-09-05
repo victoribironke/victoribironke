@@ -1,10 +1,8 @@
 I'm a full-stack developer with a passion for building high-quality web projects. I specialize in creating tools and applications that provide real value to users, with a strong emphasis on simplicity, efficiency, and usability.
 
----
+# What I'm Working On
 
-## What I'm Working On
-
-### Ventivo
+## Ventivo
 
 ![Ventivo Screenshot](https://www.victoribironke.com/about/ventivo.png)
 
@@ -12,7 +10,7 @@ Ventivo is a tool designed to help users create real-time, interactive charts di
 
 [Check out Ventivo](https://ventivo.co/)
 
-### Firestore Query Generator
+## Firestore Query Generator
 
 ![Firestore Query Generator Screenshot](https://www.victoribironke.com/about/query-generator.png)
 
@@ -22,20 +20,20 @@ An intuitive tool that allows users to easily generate Firestore queries. It inc
 
 ---
 
-## Tools and Technologies
+# Tools and Technologies
 
-### Browsers
+## Browsers
 - **Firefox**: My go-to browser for development and debugging due to its robust developer tools.
 - **Microsoft Edge**: Used for cross-browser testing and inspecting site compatibility.
 
-### Code Editors
+## Code Editors
 - **Visual Studio Code**: My primary code editor, equipped with powerful extensions for efficient development.
 - **Sublime Text**: A lightweight editor for quick edits and scripting tasks.
 
-### Development Tools
+## Development Tools
 - **HTTPie**: A modern alternative to Postman for testing APIs, providing a streamlined and intuitive user interface.
 - **Vercel**: Hosting platform for frontend projects with seamless deployment and integration features.
 
-### Productivity
+## Productivity
 - **Google Tasks**: A simple and effective tool for managing daily tasks and staying organized.
 - **Spotify**: For music and podcasts to keep the energy flowing during development.
