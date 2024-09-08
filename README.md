@@ -21,8 +21,8 @@ An intuitive tool that allows users to easily generate Firestore queries. It inc
 # Tools and Technologies
 
 ## Browsers
-- **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**: My go-to browser for development and debugging due to its robust developer tools.
-- **[Microsoft Edge](https://www.microsoft.com/edge)**: Used for cross-browser testing and inspecting site compatibility.
+- **[Microsoft Edge](https://www.microsoft.com/edge)**: My go-to browser for development and debugging due to its robust developer tools.
+- **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**: Used for cross-browser testing and inspecting site compatibility.
 
 ## Code Editors
 - **[Visual Studio Code](https://code.visualstudio.com/)**: My primary code editor, equipped with powerful extensions for efficient development.
